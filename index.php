@@ -33,7 +33,8 @@ foreach (array_reverse(file('polcom2.txt')) as $line)
 $h=$w=800;
 $im = imagecreatetruecolor($w, $h);
 //imagecolortransparent($im, $clear = imagecolorallocate($im, 13, 33, 37));
-imagefill($im, 0, 0, imagecolorallocate($im, 255, 255, 255));
+$white = imagecolorallocate($im, 255, 255, 255);
+imagefill($im, 0, 0, $white);
 
 $black = imagecolorallocate($im, 190, 190, 190);
 $realblack = imagecolorallocate($im, 0, 0, 0);
@@ -67,12 +68,32 @@ $by_os = array();
 
 $os_name = array('w' => 'Windows', 'l' => 'Linux', 'm' => 'Mac', 'x' => 'Indecisive', '?' => 'Unknown');
 
+function whiteness($x, $xmax, $y, $ymax) {
+	global $white, $im, $os_col;
+	$cols = 0;
+	for ($mx = $x; $mx < $xmax; ++$mx)
+		for ($my = $y; $my < $ymax; ++ $my)
+			$cols += imagecolorat($im, $mx, $my) == $white;
+#	imageline($im, $x, $y, $xmax, $ymax, $os_col['w']);
+	return $cols/($ymax-$y)/($xmax-$x);
+}
+
 $last_for = array();
 function point_at_real($x, $y, $label, $os, $ll = 1)
 {
 	global $im, $last_for, $os_col, $ext_col;
 	$has_last = isset($last_for[$label]);
-	imagestring($im, 2, $x+$ll+3, $y-6, $has_last ? '' : $label . (isset($_GET{'cb'}) ? ' (' . $os . ')' : ''), $os_col[$os]);
+	$lab = $has_last ? '' : $label . (isset($_GET{'cb'}) ? ' (' . $os . ')' : '');
+	if ($lab != '') {
+		$cols = 0;
+		$xbox = $ll+3+strlen($lab)*6;
+		$congleft = whiteness($x-$xbox, $x, $y-3, $y+3);
+		$congright = whiteness($x, $x+$xbox, $y-3, $y+3);
+		if ($congleft <= $congright)
+			imagestring($im, 2, $x+$ll+3, $y-6, $lab, $os_col[$os]);
+		else
+			imagestring($im, 2, $x-$xbox, $y-6, $lab, $os_col[$os]);
+	}
 	imageline($im, $x-$ll, $y-$ll, $x+$ll, $y+$ll, $os_col[$os]);
 	imageline($im, $x-$ll, $y+$ll, $x+$ll, $y-$ll, $os_col[$os]);
 	if ($has_last)

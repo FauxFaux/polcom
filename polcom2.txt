@@ -67,7 +67,7 @@
 2.25	-7.74	mulletron
 3.25	-9.33	mulletron
 -2.50	-4.05	monk
--1.75	-2.56	Mogmiester
+-1.75	-2.56	Mog
 -6.8	-2.2	Morlark
 -8.02	-3.45	Morlark
 -6.25	-3.38	Morlark
@@ -86,14 +86,13 @@
 -4.13	-6.21	sadiq
 -6.25	-6.26	sadiq
 -2.62	-1.33	Sraphim
--5.12	-6.26	StrawberryUtopia
+-5.12	-6.26	SU
 -4.62	-2.97	Spooky_Rach
 -3.23	-1.55	Skumby
 -5.64	-0.86	Skumby
 -3.88	-3.38	Skumby
 -1.75	-2.56	Socaddict
 3.25	2.09	speakfire
--3.62	-2.56	Silver
 -2.63	-0.31	Sponge
 -2.63	-0.31	Sponge
 -2.12	-2.92	Sponge
@@ -116,3 +115,4 @@
 -6.50	-2.31	Sinjo
 -0.12	-1.18	Zwei
 -3.54	-4.00	Yurgen
+-3.62	-2.56	Silver

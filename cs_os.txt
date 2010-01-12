@@ -6,7 +6,7 @@ Antz	l
 alskdj	x
 Asad	l
 Fyorl	l
-Mogmiester	w
+Mog	w
 Amorya	m
 Banana	l
 benji	l
@@ -55,7 +55,7 @@ Penguin	w
 PlanarPlatypus	l
 Polar	l
 sadiq	l
-StrawberryUtopia	l
+SU	l
 Sraphim	w
 Sar	?
 Skumby	w
