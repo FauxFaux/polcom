@@ -31,6 +31,7 @@ Inciner	w
 Jeremy	l
 Jingles	w
 jonatan	l
+Kegger	w
 Kim	w
 lamby	l
 Laurence	l
@@ -48,6 +49,7 @@ Penguin	w
 PlanarPlatypus	l
 Polar	l
 sadiq	l
+StrawberryUtopia	l
 Sraphim	w
 Sar	?
 Skumby	w
@@ -72,3 +74,5 @@ zed0	x
 Sinjo	w
 Trip	w
 zx64	x
+Zwei	w
+

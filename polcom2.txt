@@ -87,6 +87,7 @@
 -4.13	-6.21	sadiq
 -6.25	-6.26	sadiq
 -2.62	-1.33	Sraphim
+-5.12	-6.26	StrawberryUtopia
 -4.62	-2.97	Spooky_Rach
 -3.23	-1.55	Skumby
 -5.64	-0.86	Skumby
@@ -115,3 +116,4 @@
 -2.88	-4.56	zx64
 -5.88	-3.18	Sinjo
 -6.50	-2.31	Sinjo
+-0.12	-1.18	Zwei
