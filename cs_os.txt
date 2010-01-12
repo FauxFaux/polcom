@@ -4,12 +4,17 @@ ajmiles	w
 Al-Poc	w
 Antz	l
 alskdj	x
+Asad	l
+Fyorl	l
+Mogmiester	w
 Amorya	m
 Banana	l
 benji	l
+bma	l
 BigG	x
 bma	l
 Blood_God	l
+BlueParrot	l
 Brad	l
 Bruce	l
 bucko	l
@@ -24,6 +29,7 @@ Deejay	?
 Dementia	w
 Draconas	w
 Faux	w
+firefly	m
 fred	l
 frying_fish	l
 icStatic	w
@@ -55,6 +61,7 @@ Sar	?
 Skumby	w
 Smile	?
 speakfire	w
+Socaddict	w
 Sponge	w
 Spooky_Rach	w
 Silver	w
@@ -73,6 +80,7 @@ Zephran	w
 zed0	x
 Sinjo	w
 Trip	w
+Yurgen	m
 zx64	x
 Zwei	w
 
