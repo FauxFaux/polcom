@@ -59,6 +59,8 @@
 -6.88	1.31	Inciner
 1.75	-7.08	Jeremy
 3.98	-7.02	Jeremy
+-2.75	-4.46	Kegger
+-0.38	-0.36	kuros
 -3.00	-1.79	lamby
 -3.88	-6.41	lamby
 -5.63	-6.62	lionfish
