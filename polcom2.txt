@@ -42,10 +42,12 @@
 -5.12	-5.28	cmb
 2.16	3.34	covbob
 2.41	5.57	covbob
+-0.38	-2.67	dangerman
 -1.00	-3.79	Dirtus
 -2.00	-5.08	Dirtus
 1.61	3.09	Draconas
 2.52	4.52	Draconas
+-3.0	-3.54	Estel
 -1.25	-3.33	firefly
 3.88	-1.64	Faux
 1.13	-2.21	Faux
@@ -54,11 +56,14 @@
 -1.25	-3.59	fred
 -1.25	-3.59	fred
 -2.5	-3.59	fred
+-3.12	-5.13	Facecrime
 -1.75	-3.07	icStatic
 -0.7	2.48	Inciner
 -6.88	1.31	Inciner
+1.38	-4.97	Issac
 1.75	-7.08	Jeremy
 3.98	-7.02	Jeremy
+-1.75	-7.23	Jeremy
 -2.75	-4.46	Kegger
 -0.38	-0.36	kuros
 -3.00	-1.79	lamby
@@ -115,6 +120,7 @@
 -2.88	-4.56	zx64
 -5.88	-3.18	Sinjo
 -6.50	-2.31	Sinjo
+-8.75	-4.97	Sinjo
 -0.12	-1.18	Zwei
 -3.54	-4.00	Yurgen
 -3.62	-2.56	Silver
