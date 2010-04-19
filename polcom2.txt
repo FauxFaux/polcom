@@ -40,6 +40,7 @@
 -2.38	-0.92	Candle
 -5.58	-3.74	Chloe
 -5.12	-5.28	cmb
+-9.12	-8.00	Circadia
 2.16	3.34	covbob
 2.41	5.57	covbob
 -0.38	-2.67	dangerman
@@ -70,6 +71,7 @@
 -3.88	-6.41	lamby
 -5.63	-6.62	lionfish
 -5.63	-6.62	lionfish
+-3.38	-5.38	Liz
 3.00	-8.62	mulletron
 2.25	-7.74	mulletron
 3.25	-9.33	mulletron

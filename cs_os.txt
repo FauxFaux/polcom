@@ -4,7 +4,7 @@ ajmiles	w
 Al-Poc	w
 Antz	l
 alskdj	x
-Asad	l
+Asad	w
 Fyorl	l
 Mog	w
 Amorya	m
@@ -23,6 +23,7 @@ cavehippo	l
 Chloe	x
 cmb	l
 covbob	w
+Circadia	?
 dangerman	w
 db_rat	l
 Dirtus	w
@@ -47,6 +48,7 @@ kuros	w
 lamby	l
 Laurence	l
 lionfish	x
+Liz	m
 mulletron	l
 Morlark	w
 monk	l
