@@ -23,7 +23,7 @@ cavehippo	l
 Chloe	x
 cmb	l
 covbob	w
-Circadia	?
+Circadia	w
 dangerman	w
 db_rat	l
 Dirtus	w
