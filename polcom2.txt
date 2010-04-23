@@ -18,8 +18,10 @@
 -0.75	1.98	BigG
 -0.75	2.05	BigG
 -2.39	0.75	BigG
+1.12	1.28	BigG
 -8.62	-8.00	bma
 -8.620	-9.18	bma
+-9.5	-8.87	bma
 -5.64	-1.5	Blood_God
 -3.77	1.52	Blood_God
 -2.88	-0.26	Blood_God
