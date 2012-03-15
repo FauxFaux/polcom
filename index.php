@@ -30,7 +30,7 @@ foreach (array_reverse(file('polcom2.txt')) as $line)
 	$dat[$os[$nick]][$nick][$t[0]] = $t[1];
 }
 
-$h=$w=800;
+$h=$w=1000;
 $im = imagecreatetruecolor($w, $h);
 //imagecolortransparent($im, $clear = imagecolorallocate($im, 13, 33, 37));
 $white = imagecolorallocate($im, 255, 255, 255);
