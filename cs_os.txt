@@ -58,6 +58,7 @@ Neko	w
 NeXuS7	w
 Nugent	m
 Odd_Bloke	l
+pepper	w
 Penguin	w
 PlanarPlatypus	l
 Polar	l

@@ -65,6 +65,7 @@
 -1.75	-3.07	icStatic
 -0.7	2.48	Inciner
 -6.88	1.31	Inciner
+-9.62	0.97	Inciner
 1.38	-4.97	Issac
 1.75	-7.08	Jeremy
 3.98	-7.02	Jeremy
@@ -79,6 +80,7 @@
 3.00	-8.62	mulletron
 2.25	-7.74	mulletron
 3.25	-9.33	mulletron
+1.75	-6.92	mulletron
 -2.50	-4.05	monk
 -1.75	-2.56	Mog
 -3.38	-1.85	Morlark
@@ -92,6 +94,7 @@
 -9.18	-6.41	Nugent
 0.63	-5.90	Odd_Bloke
 -2.50	-5.44	Odd_Bloke
+-3.75	-2.87	pepper
 -5.89	0.39	PlanarPlatypus
 -2.5	-2.43	Polar
 -4.88	-2.15	Polar
