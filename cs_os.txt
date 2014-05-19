@@ -62,6 +62,7 @@ pepper	w
 Penguin	w
 PlanarPlatypus	l
 Polar	l
+rayhaan	l
 sadiq	l
 SU	l
 Sraphim	w
