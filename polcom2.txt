@@ -98,6 +98,7 @@
 -9.18	-6.41	Nugent
 0.63	-5.90	Odd_Bloke
 -2.50	-5.44	Odd_Bloke
+-6.63	-7.28	Odd_Bloke
 -3.75	-2.87	pepper
 -5.89	0.39	PlanarPlatypus
 -2.5	-2.43	Polar
