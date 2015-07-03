@@ -87,7 +87,7 @@ Ynox	w
 Zat	l
 Zephran	w
 zed0	x
-Sinjo	w
+Sinjo	x
 Trip	w
 Yurgen	m
 zx64	x
