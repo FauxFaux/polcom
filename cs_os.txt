@@ -53,7 +53,7 @@ mulletron	l
 Morlark	w
 monk	l
 murphy	w
-Muz	w
+Muz	x
 Neko	w
 NeXuS7	w
 Nugent	m
