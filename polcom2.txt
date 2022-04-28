@@ -9,6 +9,7 @@
 -2.12	-0.87	agaeki
 0.12	-4.16	alskdj
 -5.88	-4.51	Amorya
+-5.5	-5.49	Andy
 -5.00	-7.48	Antz
 -5.00	-8.41	Antz
 -7.00	-8.56	Antz
@@ -54,6 +55,7 @@
 -2.00	-5.08	Dirtus
 1.61	3.09	Draconas
 2.52	4.52	Draconas
+-8.63	-5.9	ErinYeet
 -3.0	-3.54	Estel
 -1.25	-3.33	firefly
 3.88	-1.64	Faux
@@ -69,10 +71,12 @@
 -6.88	1.31	Inciner
 -9.62	0.97	Inciner
 1.38	-4.97	Issac
+-5.38	-4.05	jai_
 1.75	-7.08	Jeremy
 3.98	-7.02	Jeremy
 -1.75	-7.23	Jeremy
 -7.38	-7.69	Jeremy
+-2.38	-6.51	Jlobblet
 -2.75	-4.46	Kegger
 -0.38	-0.36	kuros
 -3.00	-1.79	lamby
@@ -80,6 +84,7 @@
 -5.63	-6.62	lionfish
 -5.63	-6.62	lionfish
 -3.38	-5.38	Liz
+-2.38	-6.21	MikeCobra
 3.00	-8.62	mulletron
 2.25	-7.74	mulletron
 3.25	-9.33	mulletron
@@ -139,6 +144,7 @@
 -6.50	-2.31	Sinjo
 -8.75	-4.97	Sinjo
 -6.38	-6.10	Sinjo
+-3.63	-4.72	Sinjo
 -0.12	-1.18	Zwei
 -3.54	-4.00	Yurgen
 -3.62	-2.56	Silver

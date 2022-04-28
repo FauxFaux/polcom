@@ -2,6 +2,7 @@ acehole	l
 agaeki	w
 ajmiles	w
 Al-Poc	w
+Andy	w
 Antz	l
 alskdj	x
 Asad	w
@@ -30,6 +31,7 @@ Dirtus	w
 Deejay	?
 Dementia	w
 Draconas	w
+ErinYeet	x
 Estel	w
 Faux	w
 Facecrime	w
@@ -39,9 +41,11 @@ frying_fish	l
 icStatic	w
 Issac	l
 Inciner	w
+jai_	x
 Jeremy	l
 Jingles	w
 jonatan	l
+Jlobblet	x
 Kegger	w
 Kim	w
 kuros	w
@@ -49,6 +53,7 @@ lamby	l
 Laurence	l
 lionfish	x
 Liz	m
+MikeCobra	x
 mulletron	l
 Morlark	w
 monk	l
